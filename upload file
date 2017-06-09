@@ -1,0 +1,4 @@
+用桌面上的Xftp 5上传
+然后再在命令行（此时不要进spark-shell）
+写hadoop fs -put ./FinalAssess.csv ./FinalAssess.csv 
+具体见老师的PPT lecture 1
